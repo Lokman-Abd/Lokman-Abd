@@ -6,9 +6,12 @@
 <h1 align="center">Hi 👋, I'm LOKMANE Abdessalam</h1>
 
 
-  <a align="center" style="display:block" href="https://git.io/typing-svg">
-    <img align="center" style="text-align: center;display:block" src="https://readme-typing-svg.herokuapp.com?font=Product+Sans&pause=2000&color=DCD427&background=FFFFFF00&center=true&vCenter=true&width=435&height=50&lines=I+am+a+Full+Stack+Developer;Laravel+%26+Vue++;AI+Developer;Enjoy+Learning+and+Programing;Welcome+In+My+Profile" alt="Typing SVG" />
+<div style="text-align: center;display:block">
+  <a style="display:block" href="https://git.io/typing-svg">
+    <img style="text-align: center;display:block" src="https://readme-typing-svg.herokuapp.com?font=Product+Sans&pause=2000&color=DCD427&background=FFFFFF00&center=true&vCenter=true&width=435&height=50&lines=I+am+a+Full+Stack+Developer;Laravel+%26+Vue++;AI+Developer;Enjoy+Learning+and+Programing;Welcome+In+My+Profile" alt="Typing SVG" />
   </a>
+</div>
+
 
 <h3 align="center">A dedicated Full Stack Developer proficient in Laravel and Vue.js, passionate about crafting dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality solutions that enhance user experience. Currently, I am focused on expanding my expertise in AI and related technologies, aiming to integrate innovative approaches into my projects and further enhance my skill set.</h3>
 
